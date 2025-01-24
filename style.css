@@ -1,0 +1,78 @@
+.sec1{
+    margin-left: 100px;
+    gap: 0px;
+}
+.nav-main{
+    border-bottom: 2px solid seashell;
+
+}
+.imges{
+    border: 1px solid rgb(104, 99, 99);
+    margin-left: -13px;
+}
+.imges:hover{
+    opacity: 0.5;
+}
+
+.comp1{
+    border-bottom: 6px solid red; 
+    width: 250px; 
+}
+.comp1:hover{
+    background-color: red ;
+}
+.size{
+    font-size: 30px;
+}
+
+.comp2{
+    border-bottom: 6px solid green;
+}
+.comp2:hover{
+    background-color: green;
+}
+.comp3{
+    border-bottom: 6px solid yellow;
+}
+.comp3:hover{
+    background-color: yellow;
+}
+.comp4{
+    border-bottom: 6px solid purple;
+}
+.comp4:hover{
+    background-color: purple;
+}
+.comp5{
+    border-bottom: 6px solid blue;
+}
+.comp5:hover{
+    background-color: blue;
+}
+.comp6{
+    border-bottom: 6px solid darkolivegreen ;
+}
+.comp6:hover{
+    background-color: darkolivegreen;
+}
+.sec3{
+    width: 400px;
+    margin-left: 100px;
+    height: 200px;
+}
+.sec5{
+    margin-left: -230px;
+    width: 350px;
+}
+.last{
+    background-color: rgb(49, 49, 49);
+}
+.last1{
+    margin-left: 170px;
+    padding-top: 60px;
+    text-align: center;
+}
+.last2{
+    padding-top: 100px;
+    margin-left: 20px;
+}
